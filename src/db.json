@@ -1,0 +1,9 @@
+{
+    "employee":[
+        {
+            "empno":1002,
+            "name":"mohan",
+            "city":"bhopal"
+        }
+    ]
+}
